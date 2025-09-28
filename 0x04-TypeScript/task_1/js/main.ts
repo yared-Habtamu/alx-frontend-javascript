@@ -2,6 +2,7 @@
 ["{ firstName, lastName }"]
 ["function printTeacher("]
 ["return `${firstName}. ${lastName}`"]
+ ["class StudentClass {"]
 // Task 1: Teacher interface
 interface Teacher {
   readonly firstName: string;
