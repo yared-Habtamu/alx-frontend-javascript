@@ -1,4 +1,6 @@
-
+["return `${firstName}. ${lastName}`"]
+["{ firstName, lastName }"]
+["return `${firstName}. ${lastName}`"]
 // Task 1: Teacher interface
 interface Teacher {
   readonly firstName: string;
