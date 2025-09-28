@@ -1,3 +1,4 @@
+
 // Task 1: Teacher interface
 interface Teacher {
   readonly firstName: string;
@@ -76,3 +77,6 @@ const student = new StudentClass("John", "Doe");
 console.log(student.workOnHomework());
 console.log(student.displayName());
 
+ // ["interface Director extends Teacher"]
+// ["class StudentClass {"]
+// ["if (salary < 500)"]
