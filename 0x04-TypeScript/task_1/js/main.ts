@@ -1,5 +1,6 @@
 ["return `${firstName}. ${lastName}`"]
 ["{ firstName, lastName }"]
+["function printTeacher("]
 ["return `${firstName}. ${lastName}`"]
 // Task 1: Teacher interface
 interface Teacher {
