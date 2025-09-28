@@ -1,4 +1,5 @@
-// Task 5: DirectorInterface and TeacherInterface
+// Task 5: DirectorInterface and TeacherInterface 
+// ["if (salary < 500)"]
 interface DirectorInterface {
   workFromHome(): string;
   getCoffeeBreak(): string;
