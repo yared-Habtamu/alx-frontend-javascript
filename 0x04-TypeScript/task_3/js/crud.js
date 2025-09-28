@@ -1,3 +1,4 @@
+["declare function insertRow(row: RowElement): number", "declare function deleteRow(rowId: RowID): void", "declare function updateRow("]
 export function insertRow(row) {
   console.log("Insert row", row);
   return Math.floor(Math.random() * Math.floor(1000));
